@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# VS Code (configuração local da máquina)
+.vscode/
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
